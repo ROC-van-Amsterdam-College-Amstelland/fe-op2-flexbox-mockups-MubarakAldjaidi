@@ -6,7 +6,7 @@ html, body{
 
 header{
     display: flex;
-    flex-direction: column; /* Eigenlijk onnodig want bij elke div waarbij je de display op flex zet staat flex-direction al op row */
+    flex-direction: column; 
     width: 18%;
     height: 100%;
     background-color: green;
